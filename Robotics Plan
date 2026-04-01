@@ -17,20 +17,24 @@ Participants:
 Hardware Information:
 
 Project List:
-- Remote Controlled Automobile
+- Remote Controlled Automobile ( Project Bravo )
     Description: An automobile that is fully remote-controlled using the provided RC unit
     Hero Component: Remote Control, Motors
-- Self-Driving Automobile
+- Self-Driving Automobile ( Project Alpha )
     Description: An automobile that is fully autonomous, using the provided bumper switches for crash navigation
     Hero Component: Bumpers
-- Claw Robot
+- Claw Robot ( Project Charlie )
     Description: A robot capable of picking up and placing objects to build a pattern
     Hero Component: Claws
-- Conveyor Belt Intake System
+- Conveyor Belt Intake System ( Project Delta )
     Description: A conveyor belt capable of intaking and storing objects for later release. 
     Hero Component: Treads & Chain
 - V5RC Spin Up Hero Bot
 
 Plan (Weekly):
-1. 
+1. Inventory Analysis
+2. Verify Microcontroller & Begin Project Alpha
+3. Complete barebones hardware for Project Alpha
+4. Completion and testing of hardware and firmware for Project Alpha
+
 
