@@ -21,7 +21,7 @@ Project List:
     Description: An automobile that is fully remote-controlled using the provided RC unit
     Hero Component: Remote Control, Motors
 - Self-Driving Automobile ( Project Alpha )
-    Description: An automobile that is fully autonomous, using the provided bumper switches for crash navigation
+    Description: An automobile that is fully autonomous, using the provided bumper switches and sonar for crash navigation
     Hero Component: Bumpers
 - Claw Robot ( Project Charlie )
     Description: A robot capable of picking up and placing objects to build a pattern
